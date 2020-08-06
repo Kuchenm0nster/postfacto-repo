@@ -9,7 +9,7 @@ $ helm repo add postfacto https://kuchenm0nster.github.io/postfacto-repo/
 The chart source code can be found here:
 * [https://github.com/pivotal/postfacto/tree/master/deployment/helm](https://github.com/pivotal/postfacto/tree/master/deployment/helm)
 
-The Zammad source code can be found here:
+The Postfacto source code can be found here:
 * [https://github.com/pivotal/postfacto](https://github.com/pivotal/postfacto)
 
 The repo source code can be found here:
