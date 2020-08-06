@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  postfacto:
+  - apiVersion: v2
+    appVersion: 4.2.0
+    created: "2020-07-03T14:36:05.756520495Z"
+    description: Postfacto lets you run an agile retrospective even when your team is distributed across the world.
+      Your retros will live update across all your devices so each participant can follow along on their device.
+    digest: 4d44882d751857d98d054d5e13c2f101d2f041c0ab090a4cfede14a099e8fc5f
+    home: https://github.com/pivotal/postfacto
+    icon: https://github.com/pivotal/postfacto/raw/master/web/public/favicon.png
+    maintainers:
+    - email: monotek23@gmail.com
+      name: monotek
+    name: postfacto
+    sources:
+    - https://github.com/pivotal/postfacto
+    urls:
+    - https://github.com/pivotal/postfacto/releases/download/4.2.0/postfacto-0.5.0-beta.tgz
+    version: 4.2.0
