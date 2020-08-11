@@ -18,3 +18,20 @@ entries:
     urls:
     - https://github.com/pivotal/postfacto/releases/download/4.2.0/postfacto-0.5.0-beta.tgz
     version: 4.2.0
+  - apiVersion: v2
+    appVersion: 4.3.0
+    created: "2020-08-04T13:37:58.756520495Z"
+    description: Postfacto lets you run an agile retrospective even when your team is distributed across the world.
+      Your retros will live update across all your devices so each participant can follow along on their device.
+    digest: 4EAB51B33A6B363D4834164303A1D2C69AA307C8CF50867F8C41B97F32A378DE
+    home: https://github.com/pivotal/postfacto
+    icon: https://github.com/pivotal/postfacto/raw/master/web/public/favicon.png
+    maintainers:
+    - email: callum@seadowg.com
+      name: seadowg
+    name: postfacto
+    sources:
+    - https://github.com/pivotal/postfacto
+    urls:
+    - https://github.com/pivotal/postfacto/releases/download/4.3.0/postfacto-0.5.0-beta.tgz
+    version: 4.3.0
